@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  second_array.push("Zora")
+  second_array << "Zora"
 end
 
 def add_element_to_start_of_array(array, element)
